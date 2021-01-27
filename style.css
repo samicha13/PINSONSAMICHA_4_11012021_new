@@ -443,7 +443,7 @@ nav .caret {
     margin-top: 10px;
     margin-bottom: 20px;
     color:#F3976C!important;
-    background-color: #161D31;
+    background-color: #161D31;    
 }
 
 .mg-lg {
@@ -713,6 +713,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+
 }
 
 h3 {
@@ -730,6 +731,7 @@ h3 {
 
 h1 {
     color: #333333!important;
+    background-color: #d4d4d4;
 }
 
 h4 {
@@ -781,7 +783,8 @@ h4 {
 }
 
 .tc-white {
-    color: black;
+    color: black!important;
+    background-color: #FFFFFF;
 }
 
 .btn-atomic-tangerine {
