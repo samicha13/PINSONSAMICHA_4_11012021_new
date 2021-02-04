@@ -1,12 +1,16 @@
 body {
-    margin: 0;
+    
+     margin: 0;
     padding: 0;
     background: #FFF;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+.text-center-footer
+{
+    color: #FFFFFF!important;
+}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -442,8 +446,8 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
-    color:#F3976C!important;
-    background-color: #161D31;    
+   
+     
 }
 
 .mg-lg {
@@ -731,7 +735,7 @@ h3 {
 
 h1 {
     color: #333333!important;
-    background-color: #d4d4d4;
+   
 }
 
 h4 {
@@ -783,8 +787,12 @@ h4 {
 }
 
 .tc-white {
-    color: black!important;
-    background-color: #FFFFFF;
+    color: #FFFFFF!important;
+   
+}
+.tc-white2
+{
+    color: #000000;
 }
 
 .btn-atomic-tangerine {
