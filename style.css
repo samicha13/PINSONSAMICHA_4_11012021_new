@@ -11,6 +11,10 @@ body {
 {
     color: #FFFFFF!important;
 }
+.col-sm-12
+{
+    margin-left: 2rem;
+}
 .img-responsive 
 {
     width: 270px;
@@ -49,8 +53,14 @@ a:hover {
 }
 
 .bloc .container {
-    padding-left: 0;
+    padding-left: 15rem;
     padding-right: 0;
+    
+
+}
+.container.bloc-md{
+  
+    width: 100%;
 }
 
 .bloc-lg {
@@ -100,6 +110,7 @@ a:hover {
 }
 .text-center
 {
+    font-size: 1.5rem;
     color:#1F1F1F!important;
      
 }
@@ -633,6 +644,7 @@ a {
 .container {
     max-width: 1000px;
 }
+
 
 .hero-bloc-text {
     font-size: 38px;

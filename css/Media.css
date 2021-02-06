@@ -73,7 +73,9 @@
     .b-parallax {
         background-attachment: scroll;
     }
+
 }
+
 
 @media (max-width: 991px) {
     .container {
