@@ -141,10 +141,7 @@
         border-top: 1px solid rgba(0, 0, 0, .2);
         float: none!important;
     }
-    .navbar.row {
-        margin-left: 0;
-        margin-right: 0;
-    }
+    
     .site-navigation {
         position: inherit;
         transform: none;
