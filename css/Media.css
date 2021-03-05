@@ -78,6 +78,7 @@
 @media (max-width: 991px) {
     .container {
         width: 100%;
+    padding-left: 0rem;
     }
     .b-parallax {
         background-attachment: scroll;
@@ -102,6 +103,17 @@
 
 @media (max-width: 767px) 
 {
+    .responsive2
+    {
+        margin-left: 2rem;
+    }
+    .responsive3
+    {
+        margin-left: 3rem;
+    }
+.bloc .container {
+    padding-left: 0rem;}
+
     .bloc-mob-center-text {
         text-align: center;
     }
@@ -250,5 +262,7 @@
         padding-right: 0;
     }
     
+.bloc .container {
+    padding-left: 0rem;}
 }
 

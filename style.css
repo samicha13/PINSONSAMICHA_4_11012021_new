@@ -11,9 +11,12 @@ body {
 {
     color: #FFFFFF!important;
 }
-.col-sm-12
+.responsive1
 {
     margin-left: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 .img-responsive 
 {
@@ -54,9 +57,12 @@ a:hover {
 
 .bloc .container {
     padding-left: 15rem;
-    padding-right: 0;
-    
 
+}
+
+.responsive2
+{
+    margin-left: -14rem;
 }
 .container.bloc-md{
   
